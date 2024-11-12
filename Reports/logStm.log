@@ -1,0 +1,572 @@
+2024-11-05 18:43:46,939 :INFO: test_checkout :iphone X
+2024-11-05 18:43:46,939 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="285be30d0f8e040c04770498864026c8", element="f.6FBE7D0536038A4837D0BFF5841D2523.d.12F1C749DAE3759CE93DBCD33FF3E16D.e.58")>
+2024-11-05 18:43:46,969 :INFO: test_checkout :Samsung Note 8
+2024-11-05 18:43:46,970 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="285be30d0f8e040c04770498864026c8", element="f.6FBE7D0536038A4837D0BFF5841D2523.d.12F1C749DAE3759CE93DBCD33FF3E16D.e.63")>
+2024-11-05 18:43:46,997 :INFO: test_checkout :Nokia Edge
+2024-11-05 18:43:46,998 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="285be30d0f8e040c04770498864026c8", element="f.6FBE7D0536038A4837D0BFF5841D2523.d.12F1C749DAE3759CE93DBCD33FF3E16D.e.68")>
+2024-11-05 18:43:47,164 :INFO: test_checkout :Blackberry
+2024-11-05 18:43:47,164 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="285be30d0f8e040c04770498864026c8", element="f.6FBE7D0536038A4837D0BFF5841D2523.d.12F1C749DAE3759CE93DBCD33FF3E16D.e.73")>
+2024-11-05 18:43:52,738 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-05 18:43:58,396 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-05 18:43:58,573 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-05 18:43:59,312 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-05 18:43:59,312 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-05 18:43:59,397 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-05 18:43:59,397 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-05 18:43:59,984 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-05 18:43:59,984 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-05 18:43:59,984 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-05 18:44:00,079 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-05 18:44:00,079 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-05 18:44:00,079 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-05 18:44:52,808 :INFO: test_checkout :iphone X
+2024-11-05 18:44:52,808 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="1ee33c5114b25b6da7e570022c368f6e", element="f.576B33CD05BFEFCC29728A92DE19B7B9.d.0C44FE0D9CDBB47B9352359F18C3B52F.e.52")>
+2024-11-05 18:44:52,835 :INFO: test_checkout :Samsung Note 8
+2024-11-05 18:44:52,835 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="1ee33c5114b25b6da7e570022c368f6e", element="f.576B33CD05BFEFCC29728A92DE19B7B9.d.0C44FE0D9CDBB47B9352359F18C3B52F.e.57")>
+2024-11-05 18:44:52,865 :INFO: test_checkout :Nokia Edge
+2024-11-05 18:44:52,865 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="1ee33c5114b25b6da7e570022c368f6e", element="f.576B33CD05BFEFCC29728A92DE19B7B9.d.0C44FE0D9CDBB47B9352359F18C3B52F.e.62")>
+2024-11-05 18:44:53,072 :INFO: test_checkout :Blackberry
+2024-11-05 18:44:53,072 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="1ee33c5114b25b6da7e570022c368f6e", element="f.576B33CD05BFEFCC29728A92DE19B7B9.d.0C44FE0D9CDBB47B9352359F18C3B52F.e.67")>
+2024-11-05 18:44:58,794 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-05 18:45:02,842 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-05 18:45:03,076 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-05 18:45:03,990 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-05 18:45:03,990 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-05 18:45:04,082 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-05 18:45:04,082 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-05 18:45:04,756 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-05 18:45:04,756 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-05 18:45:04,756 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-05 18:45:04,840 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-05 18:45:04,840 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-05 18:45:04,840 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 11:50:43,989 :INFO: test_checkout :iphone X
+2024-11-06 11:50:43,990 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="79d5029f16895ae48ca229ff1876970f", element="f.80AD2F3C767FA7F999789144BF6E6C8B.d.1CF072A3354E7930C2451F364D259323.e.54")>
+2024-11-06 11:50:44,012 :INFO: test_checkout :Samsung Note 8
+2024-11-06 11:50:44,012 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="79d5029f16895ae48ca229ff1876970f", element="f.80AD2F3C767FA7F999789144BF6E6C8B.d.1CF072A3354E7930C2451F364D259323.e.59")>
+2024-11-06 11:50:44,031 :INFO: test_checkout :Nokia Edge
+2024-11-06 11:50:44,032 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="79d5029f16895ae48ca229ff1876970f", element="f.80AD2F3C767FA7F999789144BF6E6C8B.d.1CF072A3354E7930C2451F364D259323.e.64")>
+2024-11-06 11:50:44,143 :INFO: test_checkout :Blackberry
+2024-11-06 11:50:44,143 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="79d5029f16895ae48ca229ff1876970f", element="f.80AD2F3C767FA7F999789144BF6E6C8B.d.1CF072A3354E7930C2451F364D259323.e.69")>
+2024-11-06 11:50:49,729 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 11:50:55,776 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 11:50:55,918 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 11:50:57,466 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 11:50:57,466 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 11:50:57,567 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 11:50:57,567 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 11:50:58,272 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 11:50:58,272 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 11:50:58,272 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 11:50:58,359 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 11:50:58,359 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 11:50:58,359 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 11:58:46,594 :INFO: test_checkout :iphone X
+2024-11-06 11:58:46,595 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="6fe8b4976bcf4b7e93c5e1bc9671e096", element="f.5B282526F84C90455C1FE797FD0292DC.d.14FD14A6AF9AB0A9FD5483DB8225C06B.e.59")>
+2024-11-06 11:58:46,679 :INFO: test_checkout :Samsung Note 8
+2024-11-06 11:58:46,680 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="6fe8b4976bcf4b7e93c5e1bc9671e096", element="f.5B282526F84C90455C1FE797FD0292DC.d.14FD14A6AF9AB0A9FD5483DB8225C06B.e.61")>
+2024-11-06 11:58:46,755 :INFO: test_checkout :Nokia Edge
+2024-11-06 11:58:46,757 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="6fe8b4976bcf4b7e93c5e1bc9671e096", element="f.5B282526F84C90455C1FE797FD0292DC.d.14FD14A6AF9AB0A9FD5483DB8225C06B.e.63")>
+2024-11-06 11:58:46,897 :INFO: test_checkout :Blackberry
+2024-11-06 11:58:46,897 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="6fe8b4976bcf4b7e93c5e1bc9671e096", element="f.5B282526F84C90455C1FE797FD0292DC.d.14FD14A6AF9AB0A9FD5483DB8225C06B.e.65")>
+2024-11-06 11:58:52,563 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 11:58:56,401 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 11:58:56,606 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 11:58:57,385 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 11:58:57,385 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 11:58:57,468 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 11:58:57,468 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 11:58:58,085 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 11:58:58,085 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 11:58:58,085 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 11:58:58,161 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 11:58:58,161 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 11:58:58,161 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:02:12,668 :INFO: test_checkout :iphone X
+2024-11-06 14:02:12,668 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="74918168-e900-4120-8fa2-da09f4ca5f79", element="a42d42a6-677e-448a-8481-b0b0309d5162")>
+2024-11-06 14:02:12,716 :INFO: test_checkout :Samsung Note 8
+2024-11-06 14:02:12,716 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="74918168-e900-4120-8fa2-da09f4ca5f79", element="1851a49a-6a00-4d45-a0c8-2362dd942724")>
+2024-11-06 14:02:12,751 :INFO: test_checkout :Nokia Edge
+2024-11-06 14:02:12,751 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="74918168-e900-4120-8fa2-da09f4ca5f79", element="c7cffae5-6fe5-447d-a99b-7c53f8239599")>
+2024-11-06 14:02:13,079 :INFO: test_checkout :Blackberry
+2024-11-06 14:02:13,079 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="74918168-e900-4120-8fa2-da09f4ca5f79", element="7b52383a-ee93-4a07-82dc-58c813e596c0")>
+2024-11-06 14:02:19,602 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 14:02:32,450 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 14:02:32,574 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 14:02:33,803 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:02:33,803 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:02:33,851 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:02:33,851 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:02:35,134 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:02:35,134 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:02:35,134 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:02:35,173 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:02:35,173 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:02:35,173 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:04:44,168 :INFO: test_checkout :iphone X
+2024-11-06 14:04:44,169 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="d3bee50abf534e9b8ef967aeaf540bf0", element="f.5EF13095399C0DEED0D3DB3E2B0E0FE4.d.41B26431381358DECF4ADC4A2325D797.e.59")>
+2024-11-06 14:04:44,244 :INFO: test_checkout :Samsung Note 8
+2024-11-06 14:04:44,244 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="d3bee50abf534e9b8ef967aeaf540bf0", element="f.5EF13095399C0DEED0D3DB3E2B0E0FE4.d.41B26431381358DECF4ADC4A2325D797.e.61")>
+2024-11-06 14:04:44,273 :INFO: test_checkout :Nokia Edge
+2024-11-06 14:04:44,273 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="d3bee50abf534e9b8ef967aeaf540bf0", element="f.5EF13095399C0DEED0D3DB3E2B0E0FE4.d.41B26431381358DECF4ADC4A2325D797.e.63")>
+2024-11-06 14:04:44,379 :INFO: test_checkout :Blackberry
+2024-11-06 14:04:44,379 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="d3bee50abf534e9b8ef967aeaf540bf0", element="f.5EF13095399C0DEED0D3DB3E2B0E0FE4.d.41B26431381358DECF4ADC4A2325D797.e.65")>
+2024-11-06 14:04:50,145 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 14:04:54,892 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 14:04:55,085 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 14:04:55,912 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:04:55,912 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:04:56,037 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:04:56,037 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:04:56,660 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:04:56,660 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:04:56,660 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:04:56,739 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:04:56,739 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:04:56,739 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:10:27,338 :INFO: test_checkout :iphone X
+2024-11-06 14:10:27,339 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8816c572-0497-4597-9100-fffc97428365", element="eb6f9f67-9c22-4900-9d6e-36a73cd5099d")>
+2024-11-06 14:10:27,379 :INFO: test_checkout :Samsung Note 8
+2024-11-06 14:10:27,379 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8816c572-0497-4597-9100-fffc97428365", element="e9c91404-41a9-47ed-be16-809d621c35ba")>
+2024-11-06 14:10:27,418 :INFO: test_checkout :Nokia Edge
+2024-11-06 14:10:27,418 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8816c572-0497-4597-9100-fffc97428365", element="43116c57-3230-462c-833b-a9744a3b3392")>
+2024-11-06 14:10:27,717 :INFO: test_checkout :Blackberry
+2024-11-06 14:10:27,717 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8816c572-0497-4597-9100-fffc97428365", element="d34844a4-5788-410c-9110-c086c37de271")>
+2024-11-06 14:10:34,165 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 14:10:45,939 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 14:10:46,056 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 14:10:47,259 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:10:47,259 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:10:47,303 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:10:47,303 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:10:48,451 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:10:48,451 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:10:48,451 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:10:48,487 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:10:48,487 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:10:48,487 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:56:33,607 :INFO: test_checkout :iphone X
+2024-11-06 14:56:33,607 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="56aaf4261c9fa82db182f81841f94adc", element="f.42B46D56804F5F9ECA01689E3D7DFF4C.d.9C130B1BF54A886B6DA70DB962678FCA.e.60")>
+2024-11-06 14:56:33,634 :INFO: test_checkout :Samsung Note 8
+2024-11-06 14:56:33,634 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="56aaf4261c9fa82db182f81841f94adc", element="f.42B46D56804F5F9ECA01689E3D7DFF4C.d.9C130B1BF54A886B6DA70DB962678FCA.e.62")>
+2024-11-06 14:56:33,665 :INFO: test_checkout :Nokia Edge
+2024-11-06 14:56:33,665 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="56aaf4261c9fa82db182f81841f94adc", element="f.42B46D56804F5F9ECA01689E3D7DFF4C.d.9C130B1BF54A886B6DA70DB962678FCA.e.64")>
+2024-11-06 14:56:33,821 :INFO: test_checkout :Blackberry
+2024-11-06 14:56:33,821 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="56aaf4261c9fa82db182f81841f94adc", element="f.42B46D56804F5F9ECA01689E3D7DFF4C.d.9C130B1BF54A886B6DA70DB962678FCA.e.66")>
+2024-11-06 14:56:39,387 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 14:56:43,555 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 14:56:43,743 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 14:56:44,604 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:56:44,604 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 14:56:44,685 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:56:44,685 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 14:56:45,319 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:56:45,319 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:56:45,319 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 14:56:45,400 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:56:45,400 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 14:56:45,400 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:05:32,336 :INFO: test_checkout :iphone X
+2024-11-06 15:05:32,337 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="02dd14895332a20226bb79cd5787faf0", element="f.B0736CCB00439CEAFD1B9BB278DB9B0D.d.42791CDFB22F2A9261DBB7F72AD20B83.e.55")>
+2024-11-06 15:05:32,359 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:05:32,359 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="02dd14895332a20226bb79cd5787faf0", element="f.B0736CCB00439CEAFD1B9BB278DB9B0D.d.42791CDFB22F2A9261DBB7F72AD20B83.e.57")>
+2024-11-06 15:05:32,380 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:05:32,380 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="02dd14895332a20226bb79cd5787faf0", element="f.B0736CCB00439CEAFD1B9BB278DB9B0D.d.42791CDFB22F2A9261DBB7F72AD20B83.e.59")>
+2024-11-06 15:05:32,499 :INFO: test_checkout :Blackberry
+2024-11-06 15:05:32,500 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="02dd14895332a20226bb79cd5787faf0", element="f.B0736CCB00439CEAFD1B9BB278DB9B0D.d.42791CDFB22F2A9261DBB7F72AD20B83.e.61")>
+2024-11-06 15:05:38,141 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:05:42,775 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:05:43,094 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:05:44,056 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:05:44,056 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:05:44,145 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:05:44,145 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:05:44,870 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:05:44,870 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:05:44,870 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:05:44,965 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:05:44,965 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:05:44,965 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:11:35,589 :INFO: test_checkout :iphone X
+2024-11-06 15:11:35,589 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="daae25ccdbde734a5c2c71a70889dcc2", element="f.C09E652450304660F96BAEAE95222025.d.DC9EB77CB450EAC66D68B815CF6FFA5B.e.59")>
+2024-11-06 15:11:35,663 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:11:35,663 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="daae25ccdbde734a5c2c71a70889dcc2", element="f.C09E652450304660F96BAEAE95222025.d.DC9EB77CB450EAC66D68B815CF6FFA5B.e.61")>
+2024-11-06 15:11:35,694 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:11:35,694 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="daae25ccdbde734a5c2c71a70889dcc2", element="f.C09E652450304660F96BAEAE95222025.d.DC9EB77CB450EAC66D68B815CF6FFA5B.e.63")>
+2024-11-06 15:11:35,836 :INFO: test_checkout :Blackberry
+2024-11-06 15:11:35,837 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="daae25ccdbde734a5c2c71a70889dcc2", element="f.C09E652450304660F96BAEAE95222025.d.DC9EB77CB450EAC66D68B815CF6FFA5B.e.65")>
+2024-11-06 15:11:41,590 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:11:45,789 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:11:46,003 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:11:46,805 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:11:46,805 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:11:46,887 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:11:46,887 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:11:47,508 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:11:47,508 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:11:47,508 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:11:47,589 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:11:47,589 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:11:47,589 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:17:43,298 :INFO: test_checkout :iphone X
+2024-11-06 15:17:43,298 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8f3a2fd026b8b4fd4eff2b40814e9ff5", element="f.A83F7505B51C9A036D4BC72E2FFC757E.d.F1A85658D7C61811186E496F757780AC.e.59")>
+2024-11-06 15:17:43,337 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:17:43,337 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8f3a2fd026b8b4fd4eff2b40814e9ff5", element="f.A83F7505B51C9A036D4BC72E2FFC757E.d.F1A85658D7C61811186E496F757780AC.e.61")>
+2024-11-06 15:17:43,379 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:17:43,380 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8f3a2fd026b8b4fd4eff2b40814e9ff5", element="f.A83F7505B51C9A036D4BC72E2FFC757E.d.F1A85658D7C61811186E496F757780AC.e.63")>
+2024-11-06 15:17:43,549 :INFO: test_checkout :Blackberry
+2024-11-06 15:17:43,549 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8f3a2fd026b8b4fd4eff2b40814e9ff5", element="f.A83F7505B51C9A036D4BC72E2FFC757E.d.F1A85658D7C61811186E496F757780AC.e.65")>
+2024-11-06 15:17:49,182 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:17:55,036 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:17:55,296 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:17:56,177 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:17:56,177 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:17:56,283 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:17:56,283 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:17:57,031 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:17:57,031 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:17:57,031 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:17:57,138 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:17:57,138 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:17:57,138 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:21:18,352 :INFO: test_checkout :iphone X
+2024-11-06 15:21:18,353 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5178b754-32c0-4043-8f86-72ac3422e007", element="946ef14d-6dc7-41c1-bbdc-3c2bea45b50a")>
+2024-11-06 15:21:18,423 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:21:18,424 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5178b754-32c0-4043-8f86-72ac3422e007", element="808fb67e-2102-4777-b87a-7af8b627de95")>
+2024-11-06 15:21:18,482 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:21:18,482 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5178b754-32c0-4043-8f86-72ac3422e007", element="305459dc-78d7-465d-9827-bea3993d74cb")>
+2024-11-06 15:21:18,860 :INFO: test_checkout :Blackberry
+2024-11-06 15:21:18,860 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5178b754-32c0-4043-8f86-72ac3422e007", element="f6f9c28b-3da3-4006-bd68-437cf8dd4b0f")>
+2024-11-06 15:21:25,380 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:21:37,272 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:21:37,458 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:21:38,832 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:21:38,832 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:21:38,891 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:21:38,891 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:21:40,128 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:21:40,128 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:21:40,128 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:21:40,174 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:21:40,174 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:21:40,174 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:26:59,937 :INFO: test_checkout :iphone X
+2024-11-06 15:26:59,938 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3b95692de1e13d2c10979cef1cac4b0b", element="f.4FA4FECAA31F4B1470780B9C8DCF3CEF.d.144891F8913D197738DBB7D4CFAB387D.e.59")>
+2024-11-06 15:26:59,972 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:26:59,972 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3b95692de1e13d2c10979cef1cac4b0b", element="f.4FA4FECAA31F4B1470780B9C8DCF3CEF.d.144891F8913D197738DBB7D4CFAB387D.e.61")>
+2024-11-06 15:27:00,002 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:27:00,002 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3b95692de1e13d2c10979cef1cac4b0b", element="f.4FA4FECAA31F4B1470780B9C8DCF3CEF.d.144891F8913D197738DBB7D4CFAB387D.e.63")>
+2024-11-06 15:27:00,269 :INFO: test_checkout :Blackberry
+2024-11-06 15:27:00,269 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3b95692de1e13d2c10979cef1cac4b0b", element="f.4FA4FECAA31F4B1470780B9C8DCF3CEF.d.144891F8913D197738DBB7D4CFAB387D.e.65")>
+2024-11-06 15:27:05,873 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:27:10,343 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:27:10,574 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:27:11,430 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:27:11,430 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:27:11,506 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:27:11,506 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:27:12,245 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:27:12,245 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:27:12,245 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:27:12,339 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:27:12,339 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:27:12,339 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:33:32,746 :INFO: test_checkout :iphone X
+2024-11-06 15:33:32,746 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="710d5d1b1aeabb70139546354fa48d4c", element="f.CF59445C4E3774DF76120E2501E49638.d.8A3A63DC27A571ED280C484590D3C112.e.61")>
+2024-11-06 15:33:32,810 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:33:32,810 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="710d5d1b1aeabb70139546354fa48d4c", element="f.CF59445C4E3774DF76120E2501E49638.d.8A3A63DC27A571ED280C484590D3C112.e.63")>
+2024-11-06 15:33:32,849 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:33:32,849 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="710d5d1b1aeabb70139546354fa48d4c", element="f.CF59445C4E3774DF76120E2501E49638.d.8A3A63DC27A571ED280C484590D3C112.e.65")>
+2024-11-06 15:33:33,064 :INFO: test_checkout :Blackberry
+2024-11-06 15:33:33,064 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="710d5d1b1aeabb70139546354fa48d4c", element="f.CF59445C4E3774DF76120E2501E49638.d.8A3A63DC27A571ED280C484590D3C112.e.67")>
+2024-11-06 15:33:38,905 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:33:43,082 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:33:43,266 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:33:44,045 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:33:44,045 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:33:44,151 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:33:44,151 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:33:44,780 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:33:44,780 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:33:44,780 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:33:44,862 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:33:44,862 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:33:44,862 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:41:23,593 :INFO: test_checkout :iphone X
+2024-11-06 15:41:23,593 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="27290ae148627affdf01798ea20702f9", element="f.1EBD44D8857A183B542C0880DDF530AB.d.DEE20AC0F24452C9A7B3A919DA611B72.e.54")>
+2024-11-06 15:41:23,619 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:41:23,619 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="27290ae148627affdf01798ea20702f9", element="f.1EBD44D8857A183B542C0880DDF530AB.d.DEE20AC0F24452C9A7B3A919DA611B72.e.59")>
+2024-11-06 15:41:23,651 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:41:23,652 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="27290ae148627affdf01798ea20702f9", element="f.1EBD44D8857A183B542C0880DDF530AB.d.DEE20AC0F24452C9A7B3A919DA611B72.e.64")>
+2024-11-06 15:41:23,761 :INFO: test_checkout :Blackberry
+2024-11-06 15:41:23,761 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="27290ae148627affdf01798ea20702f9", element="f.1EBD44D8857A183B542C0880DDF530AB.d.DEE20AC0F24452C9A7B3A919DA611B72.e.69")>
+2024-11-06 15:41:29,309 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:41:33,901 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:41:34,081 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:41:34,827 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:41:34,827 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:41:34,907 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:41:34,907 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:41:35,488 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:41:35,488 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:41:35,488 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:41:35,566 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:41:35,566 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:41:35,566 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:46:02,484 :INFO: test_checkout :iphone X
+2024-11-06 15:46:02,484 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="0fdc0a47e2873bc25be56f175e7799fd", element="f.C955B6A4A134BF1B492E5C91444AA607.d.3D7886CFAB8B11D92B2AE845DA8EEB6F.e.49")>
+2024-11-06 15:46:02,506 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:46:02,506 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="0fdc0a47e2873bc25be56f175e7799fd", element="f.C955B6A4A134BF1B492E5C91444AA607.d.3D7886CFAB8B11D92B2AE845DA8EEB6F.e.51")>
+2024-11-06 15:46:02,532 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:46:02,532 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="0fdc0a47e2873bc25be56f175e7799fd", element="f.C955B6A4A134BF1B492E5C91444AA607.d.3D7886CFAB8B11D92B2AE845DA8EEB6F.e.53")>
+2024-11-06 15:46:02,638 :INFO: test_checkout :Blackberry
+2024-11-06 15:46:02,639 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="0fdc0a47e2873bc25be56f175e7799fd", element="f.C955B6A4A134BF1B492E5C91444AA607.d.3D7886CFAB8B11D92B2AE845DA8EEB6F.e.55")>
+2024-11-06 15:46:08,175 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:46:12,373 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:46:12,564 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:46:13,439 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:46:13,439 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:46:13,552 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:46:13,552 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:46:14,191 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:46:14,191 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:46:14,191 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:46:14,271 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:46:14,271 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:46:14,271 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:58:26,290 :INFO: test_checkout :iphone X
+2024-11-06 15:58:26,290 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8b17a9b5a38066434dc48b71c37216a7", element="f.E272BD6A923DD549D306D4CAB600A2BA.d.29B5048C4041B7D59A3A8765A43C3751.e.49")>
+2024-11-06 15:58:26,316 :INFO: test_checkout :Samsung Note 8
+2024-11-06 15:58:26,316 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8b17a9b5a38066434dc48b71c37216a7", element="f.E272BD6A923DD549D306D4CAB600A2BA.d.29B5048C4041B7D59A3A8765A43C3751.e.51")>
+2024-11-06 15:58:26,342 :INFO: test_checkout :Nokia Edge
+2024-11-06 15:58:26,342 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8b17a9b5a38066434dc48b71c37216a7", element="f.E272BD6A923DD549D306D4CAB600A2BA.d.29B5048C4041B7D59A3A8765A43C3751.e.54")>
+2024-11-06 15:58:26,489 :INFO: test_checkout :Blackberry
+2024-11-06 15:58:26,489 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="8b17a9b5a38066434dc48b71c37216a7", element="f.E272BD6A923DD549D306D4CAB600A2BA.d.29B5048C4041B7D59A3A8765A43C3751.e.56")>
+2024-11-06 15:58:32,198 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 15:58:37,707 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 15:58:37,846 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 15:58:38,635 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:58:38,635 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 15:58:38,732 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:58:38,732 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 15:58:39,312 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:58:39,312 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:58:39,312 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 15:58:39,392 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:58:39,392 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 15:58:39,392 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:10:07,650 :INFO: test_checkout :iphone X
+2024-11-06 16:10:07,650 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2c730563101308adf512940aa7bf41a3", element="f.ABFA26DE4A5CFB9D18CAA4B2377BEFC5.d.C81772AFFD6BA061557AA63041502658.e.53")>
+2024-11-06 16:10:07,674 :INFO: test_checkout :Samsung Note 8
+2024-11-06 16:10:07,674 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2c730563101308adf512940aa7bf41a3", element="f.ABFA26DE4A5CFB9D18CAA4B2377BEFC5.d.C81772AFFD6BA061557AA63041502658.e.55")>
+2024-11-06 16:10:07,708 :INFO: test_checkout :Nokia Edge
+2024-11-06 16:10:07,708 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2c730563101308adf512940aa7bf41a3", element="f.ABFA26DE4A5CFB9D18CAA4B2377BEFC5.d.C81772AFFD6BA061557AA63041502658.e.57")>
+2024-11-06 16:10:07,866 :INFO: test_checkout :Blackberry
+2024-11-06 16:10:07,866 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2c730563101308adf512940aa7bf41a3", element="f.ABFA26DE4A5CFB9D18CAA4B2377BEFC5.d.C81772AFFD6BA061557AA63041502658.e.59")>
+2024-11-06 16:10:13,417 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 16:10:17,832 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 16:10:17,990 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 16:10:18,689 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:10:18,689 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:10:18,805 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:10:18,805 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:10:19,392 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:10:19,392 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:10:19,392 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:10:19,473 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:10:19,473 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:10:19,473 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:15:38,193 :INFO: test_checkout :iphone X
+2024-11-06 16:15:38,193 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3581c7ac12c35be27b7b16afcd20d9e7", element="f.1624C38719EBC416DEE0218AF1BBB177.d.483A3C1D5F537DC7021786F7FE666396.e.58")>
+2024-11-06 16:15:38,218 :INFO: test_checkout :Samsung Note 8
+2024-11-06 16:15:38,218 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3581c7ac12c35be27b7b16afcd20d9e7", element="f.1624C38719EBC416DEE0218AF1BBB177.d.483A3C1D5F537DC7021786F7FE666396.e.61")>
+2024-11-06 16:15:38,243 :INFO: test_checkout :Nokia Edge
+2024-11-06 16:15:38,243 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3581c7ac12c35be27b7b16afcd20d9e7", element="f.1624C38719EBC416DEE0218AF1BBB177.d.483A3C1D5F537DC7021786F7FE666396.e.63")>
+2024-11-06 16:15:38,362 :INFO: test_checkout :Blackberry
+2024-11-06 16:15:38,362 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="3581c7ac12c35be27b7b16afcd20d9e7", element="f.1624C38719EBC416DEE0218AF1BBB177.d.483A3C1D5F537DC7021786F7FE666396.e.65")>
+2024-11-06 16:15:44,002 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 16:15:48,586 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 16:15:48,731 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 16:15:49,434 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:15:49,434 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:15:49,511 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:15:49,511 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:15:50,086 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:15:50,086 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:15:50,086 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:15:50,169 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:15:50,169 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:15:50,169 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:18:40,537 :INFO: test_checkout :iphone X
+2024-11-06 16:18:40,537 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="29de1f271e26bd2884c4c0fc23b2e949", element="f.4B6BB06ED9370CE3FB899D31D06A7762.d.806D0F848C93456C3508067B7C484272.e.53")>
+2024-11-06 16:18:40,561 :INFO: test_checkout :Samsung Note 8
+2024-11-06 16:18:40,562 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="29de1f271e26bd2884c4c0fc23b2e949", element="f.4B6BB06ED9370CE3FB899D31D06A7762.d.806D0F848C93456C3508067B7C484272.e.58")>
+2024-11-06 16:18:40,588 :INFO: test_checkout :Nokia Edge
+2024-11-06 16:18:40,588 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="29de1f271e26bd2884c4c0fc23b2e949", element="f.4B6BB06ED9370CE3FB899D31D06A7762.d.806D0F848C93456C3508067B7C484272.e.64")>
+2024-11-06 16:18:40,726 :INFO: test_checkout :Blackberry
+2024-11-06 16:18:40,726 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="29de1f271e26bd2884c4c0fc23b2e949", element="f.4B6BB06ED9370CE3FB899D31D06A7762.d.806D0F848C93456C3508067B7C484272.e.69")>
+2024-11-06 16:18:46,420 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 16:18:50,641 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 16:18:50,811 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 16:18:51,587 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:18:51,587 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:18:51,669 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:18:51,669 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:18:52,249 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:18:52,249 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:18:52,249 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:18:52,326 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:18:52,326 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:18:52,326 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:21:10,350 :INFO: test_checkout :iphone X
+2024-11-06 16:21:10,351 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="13ae0816f0f376e98dfc4d97c31e6a88", element="f.C081AC0AC9DD0075AF51CA14977FC3E8.d.0C95F93EF6F4E1194B999622CFD6ED07.e.55")>
+2024-11-06 16:21:10,373 :INFO: test_checkout :Samsung Note 8
+2024-11-06 16:21:10,373 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="13ae0816f0f376e98dfc4d97c31e6a88", element="f.C081AC0AC9DD0075AF51CA14977FC3E8.d.0C95F93EF6F4E1194B999622CFD6ED07.e.60")>
+2024-11-06 16:21:10,394 :INFO: test_checkout :Nokia Edge
+2024-11-06 16:21:10,394 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="13ae0816f0f376e98dfc4d97c31e6a88", element="f.C081AC0AC9DD0075AF51CA14977FC3E8.d.0C95F93EF6F4E1194B999622CFD6ED07.e.66")>
+2024-11-06 16:21:10,510 :INFO: test_checkout :Blackberry
+2024-11-06 16:21:10,510 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="13ae0816f0f376e98dfc4d97c31e6a88", element="f.C081AC0AC9DD0075AF51CA14977FC3E8.d.0C95F93EF6F4E1194B999622CFD6ED07.e.71")>
+2024-11-06 16:21:16,069 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 16:21:19,979 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 16:21:20,162 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 16:21:20,930 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:21:20,930 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:21:21,011 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:21:21,011 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:21:21,595 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:21:21,595 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:21:21,595 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:21:21,676 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:21:21,676 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:21:21,676 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:25:47,468 :INFO: test_checkout :iphone X
+2024-11-06 16:25:47,468 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="163ddf2147197362507aa60a2fe386e0", element="f.0081047F349EC279E1AE17BDA7B18CF1.d.6F3094849E8E1A22BA36C4AB43D3BFE9.e.56")>
+2024-11-06 16:25:47,488 :INFO: test_checkout :Samsung Note 8
+2024-11-06 16:25:47,488 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="163ddf2147197362507aa60a2fe386e0", element="f.0081047F349EC279E1AE17BDA7B18CF1.d.6F3094849E8E1A22BA36C4AB43D3BFE9.e.58")>
+2024-11-06 16:25:47,508 :INFO: test_checkout :Nokia Edge
+2024-11-06 16:25:47,509 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="163ddf2147197362507aa60a2fe386e0", element="f.0081047F349EC279E1AE17BDA7B18CF1.d.6F3094849E8E1A22BA36C4AB43D3BFE9.e.60")>
+2024-11-06 16:25:47,608 :INFO: test_checkout :Blackberry
+2024-11-06 16:25:47,608 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="163ddf2147197362507aa60a2fe386e0", element="f.0081047F349EC279E1AE17BDA7B18CF1.d.6F3094849E8E1A22BA36C4AB43D3BFE9.e.62")>
+2024-11-06 16:25:53,207 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 16:25:59,058 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 16:25:59,210 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 16:26:00,035 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:26:00,035 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:26:00,120 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:26:00,120 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:26:00,698 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:26:00,698 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:26:00,698 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:26:00,773 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:26:00,773 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:26:00,773 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:32:34,470 :INFO: test_checkout :iphone X
+2024-11-06 16:32:34,470 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="f3ef8a05b8e989f4f22efce9be371700", element="f.D09800FB58AE7A50B5D5F55798552592.d.4D5D1695F8A9A10D7778F997B2AB1FEF.e.57")>
+2024-11-06 16:32:34,498 :INFO: test_checkout :Samsung Note 8
+2024-11-06 16:32:34,498 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="f3ef8a05b8e989f4f22efce9be371700", element="f.D09800FB58AE7A50B5D5F55798552592.d.4D5D1695F8A9A10D7778F997B2AB1FEF.e.59")>
+2024-11-06 16:32:34,524 :INFO: test_checkout :Nokia Edge
+2024-11-06 16:32:34,524 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="f3ef8a05b8e989f4f22efce9be371700", element="f.D09800FB58AE7A50B5D5F55798552592.d.4D5D1695F8A9A10D7778F997B2AB1FEF.e.61")>
+2024-11-06 16:32:34,658 :INFO: test_checkout :Blackberry
+2024-11-06 16:32:34,658 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="f3ef8a05b8e989f4f22efce9be371700", element="f.D09800FB58AE7A50B5D5F55798552592.d.4D5D1695F8A9A10D7778F997B2AB1FEF.e.64")>
+2024-11-06 16:32:40,295 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-06 16:32:44,441 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-06 16:32:44,635 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-06 16:32:45,607 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:32:45,607 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-06 16:32:45,695 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:32:45,695 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-06 16:32:46,363 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:32:46,363 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:32:46,363 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-06 16:32:46,463 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:32:46,463 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-06 16:32:46,463 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:45:12,134 :INFO: test_checkout :iphone X
+2024-11-10 13:45:12,135 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2ee203a29c0d216d622a58a3c491e1bf", element="f.6A4418D50838C4362A6F67EA6C8032A8.d.1A5C649822A9492A6CF849BCA836CD27.e.46")>
+2024-11-10 13:45:12,205 :INFO: test_checkout :Samsung Note 8
+2024-11-10 13:45:12,205 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2ee203a29c0d216d622a58a3c491e1bf", element="f.6A4418D50838C4362A6F67EA6C8032A8.d.1A5C649822A9492A6CF849BCA836CD27.e.50")>
+2024-11-10 13:45:12,301 :INFO: test_checkout :Nokia Edge
+2024-11-10 13:45:12,301 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2ee203a29c0d216d622a58a3c491e1bf", element="f.6A4418D50838C4362A6F67EA6C8032A8.d.1A5C649822A9492A6CF849BCA836CD27.e.54")>
+2024-11-10 13:45:12,608 :INFO: test_checkout :Blackberry
+2024-11-10 13:45:12,608 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="2ee203a29c0d216d622a58a3c491e1bf", element="f.6A4418D50838C4362A6F67EA6C8032A8.d.1A5C649822A9492A6CF849BCA836CD27.e.58")>
+2024-11-10 13:45:18,644 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-10 13:45:24,895 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-10 13:45:25,255 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-10 13:45:26,557 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-10 13:45:26,557 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-10 13:45:26,677 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-10 13:45:26,677 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-10 13:45:27,636 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:45:27,636 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:45:27,636 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:45:27,762 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:45:27,762 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:45:27,762 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:48:24,609 :INFO: test_checkout :iphone X
+2024-11-10 13:48:24,610 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="65d0b245e9fa4b218b994fdc0af02942", element="f.61F9002AAB752E2DC2688471DA816FA8.d.9685E5C54D8313C7F14A38567F6DD034.e.59")>
+2024-11-10 13:48:24,655 :INFO: test_checkout :Samsung Note 8
+2024-11-10 13:48:24,655 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="65d0b245e9fa4b218b994fdc0af02942", element="f.61F9002AAB752E2DC2688471DA816FA8.d.9685E5C54D8313C7F14A38567F6DD034.e.61")>
+2024-11-10 13:48:24,692 :INFO: test_checkout :Nokia Edge
+2024-11-10 13:48:24,693 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="65d0b245e9fa4b218b994fdc0af02942", element="f.61F9002AAB752E2DC2688471DA816FA8.d.9685E5C54D8313C7F14A38567F6DD034.e.63")>
+2024-11-10 13:48:25,120 :INFO: test_checkout :Blackberry
+2024-11-10 13:48:25,120 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="65d0b245e9fa4b218b994fdc0af02942", element="f.61F9002AAB752E2DC2688471DA816FA8.d.9685E5C54D8313C7F14A38567F6DD034.e.65")>
+2024-11-10 13:48:31,196 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-10 13:48:37,137 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-10 13:48:37,355 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-10 13:48:38,531 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-10 13:48:38,531 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-10 13:48:38,645 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-10 13:48:38,645 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-10 13:48:39,689 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:48:39,689 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:48:39,689 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:48:39,949 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:48:39,949 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:48:39,949 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:52:50,343 :INFO: test_checkout :iphone X
+2024-11-10 13:52:50,344 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5c4733b8e098b86eb2382785671ba521", element="f.6AE1417B6ED89F003EDEE1053DAD7665.d.5D343A0724AE1A92A8C6EBA143668295.e.58")>
+2024-11-10 13:52:50,385 :INFO: test_checkout :Samsung Note 8
+2024-11-10 13:52:50,385 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5c4733b8e098b86eb2382785671ba521", element="f.6AE1417B6ED89F003EDEE1053DAD7665.d.5D343A0724AE1A92A8C6EBA143668295.e.60")>
+2024-11-10 13:52:50,423 :INFO: test_checkout :Nokia Edge
+2024-11-10 13:52:50,423 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5c4733b8e098b86eb2382785671ba521", element="f.6AE1417B6ED89F003EDEE1053DAD7665.d.5D343A0724AE1A92A8C6EBA143668295.e.62")>
+2024-11-10 13:52:50,569 :INFO: test_checkout :Blackberry
+2024-11-10 13:52:50,569 :INFO: test_checkout :<selenium.webdriver.remote.webelement.WebElement (session="5c4733b8e098b86eb2382785671ba521", element="f.6AE1417B6ED89F003EDEE1053DAD7665.d.5D343A0724AE1A92A8C6EBA143668295.e.64")>
+2024-11-10 13:52:56,335 :INFO: test_checkout :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-10 13:53:03,131 :INFO: test_SignUpForm :Entered Name: Rajesh
+2024-11-10 13:53:03,571 :INFO: test_SignUpForm :Entered Email: rajesh@demo.com
+2024-11-10 13:53:11,281 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-10 13:53:11,281 :INFO: test_SignUpForm :Entered Name: Jack
+2024-11-10 13:53:12,168 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-10 13:53:12,168 :INFO: test_SignUpForm :Entered Email: Jack@demo.com
+2024-11-10 13:53:13,603 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:53:13,603 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:53:13,603 :INFO: test_SignUpForm :Entered Name: Mary
+2024-11-10 13:53:13,750 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:53:13,750 :INFO: test_SignUpForm :Entered Email: M@demo.com
+2024-11-10 13:53:13,750 :INFO: test_SignUpForm :Entered Email: M@demo.com
